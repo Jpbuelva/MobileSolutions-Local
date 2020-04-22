@@ -1,0 +1,8 @@
+D:\Project\MobileSolutionLocal\MobileSolutionLocal.Data\bin\Debug\netcoreapp3.1\MobileSolutionLocal.Data.deps.json
+D:\Project\MobileSolutionLocal\MobileSolutionLocal.Data\bin\Debug\netcoreapp3.1\MobileSolutionLocal.Data.dll
+D:\Project\MobileSolutionLocal\MobileSolutionLocal.Data\bin\Debug\netcoreapp3.1\MobileSolutionLocal.Data.pdb
+D:\Project\MobileSolutionLocal\MobileSolutionLocal.Data\obj\Debug\netcoreapp3.1\MobileSolutionLocal.Data.csprojAssemblyReference.cache
+D:\Project\MobileSolutionLocal\MobileSolutionLocal.Data\obj\Debug\netcoreapp3.1\MobileSolutionLocal.Data.AssemblyInfoInputs.cache
+D:\Project\MobileSolutionLocal\MobileSolutionLocal.Data\obj\Debug\netcoreapp3.1\MobileSolutionLocal.Data.AssemblyInfo.cs
+D:\Project\MobileSolutionLocal\MobileSolutionLocal.Data\obj\Debug\netcoreapp3.1\MobileSolutionLocal.Data.dll
+D:\Project\MobileSolutionLocal\MobileSolutionLocal.Data\obj\Debug\netcoreapp3.1\MobileSolutionLocal.Data.pdb

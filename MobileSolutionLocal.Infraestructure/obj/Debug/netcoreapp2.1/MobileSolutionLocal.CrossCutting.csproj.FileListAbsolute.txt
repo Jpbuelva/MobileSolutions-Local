@@ -1,0 +1,8 @@
+D:\Project\MobileSolutionLocal\MobileSolutionLocal.Infraestructure\bin\Debug\netcoreapp2.1\MobileSolutionLocal.CrossCutting.deps.json
+D:\Project\MobileSolutionLocal\MobileSolutionLocal.Infraestructure\bin\Debug\netcoreapp2.1\MobileSolutionLocal.CrossCutting.dll
+D:\Project\MobileSolutionLocal\MobileSolutionLocal.Infraestructure\bin\Debug\netcoreapp2.1\MobileSolutionLocal.CrossCutting.pdb
+D:\Project\MobileSolutionLocal\MobileSolutionLocal.Infraestructure\obj\Debug\netcoreapp2.1\MobileSolutionLocal.CrossCutting.csprojAssemblyReference.cache
+D:\Project\MobileSolutionLocal\MobileSolutionLocal.Infraestructure\obj\Debug\netcoreapp2.1\MobileSolutionLocal.CrossCutting.AssemblyInfoInputs.cache
+D:\Project\MobileSolutionLocal\MobileSolutionLocal.Infraestructure\obj\Debug\netcoreapp2.1\MobileSolutionLocal.CrossCutting.AssemblyInfo.cs
+D:\Project\MobileSolutionLocal\MobileSolutionLocal.Infraestructure\obj\Debug\netcoreapp2.1\MobileSolutionLocal.CrossCutting.dll
+D:\Project\MobileSolutionLocal\MobileSolutionLocal.Infraestructure\obj\Debug\netcoreapp2.1\MobileSolutionLocal.CrossCutting.pdb

@@ -1,0 +1,266 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Project\\MobileSolutionLocal\\MobileSolutionLocal\\MobileSolutionLocal.csproj": {}
+  },
+  "projects": {
+    "D:\\Project\\MobileSolutionLocal\\MobileSolutionLocal.Application\\MobileSolutionLocal.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Project\\MobileSolutionLocal\\MobileSolutionLocal.Application\\MobileSolutionLocal.Application.csproj",
+        "projectName": "MobileSolutionLocal.Application",
+        "projectPath": "D:\\Project\\MobileSolutionLocal\\MobileSolutionLocal.Application\\MobileSolutionLocal.Application.csproj",
+        "packagesPath": "C:\\Users\\jopena\\.nuget\\packages\\",
+        "outputPath": "D:\\Project\\MobileSolutionLocal\\MobileSolutionLocal.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jopena\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Project\\MobileSolutionLocal\\MobileSolutionLocal.Domain\\MobileSolutionLocal.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Project\\MobileSolutionLocal\\MobileSolutionLocal.Domain\\MobileSolutionLocal.Domain.csproj",
+        "projectName": "MobileSolutionLocal.Domain",
+        "projectPath": "D:\\Project\\MobileSolutionLocal\\MobileSolutionLocal.Domain\\MobileSolutionLocal.Domain.csproj",
+        "packagesPath": "C:\\Users\\jopena\\.nuget\\packages\\",
+        "outputPath": "D:\\Project\\MobileSolutionLocal\\MobileSolutionLocal.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jopena\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Project\\MobileSolutionLocal\\MobileSolutionLocal.Infraestructure\\MobileSolutionLocal.CrossCutting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Project\\MobileSolutionLocal\\MobileSolutionLocal.Infraestructure\\MobileSolutionLocal.CrossCutting.csproj",
+        "projectName": "MobileSolutionLocal.CrossCutting",
+        "projectPath": "D:\\Project\\MobileSolutionLocal\\MobileSolutionLocal.Infraestructure\\MobileSolutionLocal.CrossCutting.csproj",
+        "packagesPath": "C:\\Users\\jopena\\.nuget\\packages\\",
+        "outputPath": "D:\\Project\\MobileSolutionLocal\\MobileSolutionLocal.Infraestructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jopena\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Project\\MobileSolutionLocal\\MobileSolutionLocal\\MobileSolutionLocal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Project\\MobileSolutionLocal\\MobileSolutionLocal\\MobileSolutionLocal.csproj",
+        "projectName": "MobileSolutionLocal",
+        "projectPath": "D:\\Project\\MobileSolutionLocal\\MobileSolutionLocal\\MobileSolutionLocal.csproj",
+        "packagesPath": "C:\\Users\\jopena\\.nuget\\packages\\",
+        "outputPath": "D:\\Project\\MobileSolutionLocal\\MobileSolutionLocal\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jopena\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "D:\\Project\\MobileSolutionLocal\\MobileSolutionLocal.Application\\MobileSolutionLocal.Application.csproj": {
+                "projectPath": "D:\\Project\\MobileSolutionLocal\\MobileSolutionLocal.Application\\MobileSolutionLocal.Application.csproj"
+              },
+              "D:\\Project\\MobileSolutionLocal\\MobileSolutionLocal.Domain\\MobileSolutionLocal.Domain.csproj": {
+                "projectPath": "D:\\Project\\MobileSolutionLocal\\MobileSolutionLocal.Domain\\MobileSolutionLocal.Domain.csproj"
+              },
+              "D:\\Project\\MobileSolutionLocal\\MobileSolutionLocal.Infraestructure\\MobileSolutionLocal.CrossCutting.csproj": {
+                "projectPath": "D:\\Project\\MobileSolutionLocal\\MobileSolutionLocal.Infraestructure\\MobileSolutionLocal.CrossCutting.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
