@@ -52,6 +52,8 @@ namespace MobileSolutionLocal.Application
                 {
                     Console.WriteLine(f.Length);
                     File.Copy(Path.Combine(f.FullName), Path.Combine(backupDir, f.Name), true);
+                    //Thread th = new Thread();
+                    //th.Start();
                 }
                 foreach (var f in list)
                 {
