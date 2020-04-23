@@ -52,6 +52,8 @@ namespace MobileSolutionLocal.Application
                 {
                     Console.WriteLine(f.Length);
                     File.Copy(Path.Combine(f.FullName), Path.Combine(backupDir, f.Name), true);
+                    //Aquí se levantan los hilos para consumir el siguente metodo, se le manda el parametro del path
+
                     //Thread th = new Thread();
                     //th.Start();
                 }
